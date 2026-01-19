@@ -83,8 +83,9 @@ StudentResultSystem/
 
 ## 👨‍💻 Author
 
-Sai Tharun M
+Ravi kumar
 Java Developer Intern
 
 ## 📌 Internship Task
+
 Task 3 – Control Flow Based Student Result System
